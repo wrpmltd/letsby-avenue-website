@@ -1,0 +1,8 @@
+---
+deployment:
+  tasks:
+    - export SITE=/home/wrpmstaf/letsby-avenue.co.uk
+    - mkdir -p $SITE/wp-content/themes/letsby
+    - /bin/cp -R theme/letsby/. $SITE/wp-content/themes/letsby/
+    - mkdir -p $SITE/wp-content/themes/letsby/setup/content
+    - /bin/cp content/*.html content/pages.json $SITE/wp-content/themes/letsby/setup/content/
