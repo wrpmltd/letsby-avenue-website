@@ -1,0 +1,32 @@
+eyebrow: Compliance
+h1: Keeping tenancy records organised.
+lead: Less searching. A clearer picture. Keep the important details of your tenancy together, so you can find what you need and understand what happened, when.
+## Six places for the important details.
+Use the same structure for each property, with a separate file for each tenancy. Keep the documents that apply to your situation and make the latest version easy to identify.
+- Tenancy & key documents | Keep the signed agreement, agreed variations and relevant tenant or guarantor details together. Store copies of key documents provided to the tenant, with a record of when and how they were supplied.
+- Deposit records | Keep the deposit amount, protection confirmation, prescribed information and evidence of delivery together. Add correspondence about the deposit and any agreed deductions or repayment at the end.
+- Rent & property finances | Maintain a clear rent ledger showing what was due, what was received and any outstanding balance. Save statements, invoices and receipts so each payment or expense can be traced.
+- Safety & compliance | Store current certificates and reports, relevant licences and records of follow-up work. Record each document's date and review or expiry date, where applicable, and set reminders for the next action.
+- Condition & maintenance | Keep the inventory, check-in evidence, dated inspection reports and check-out records. Link repair reports to photographs, quotes, approvals, invoices and completion notes.
+- Communication & decisions | Save important emails and relevant messages alongside a dated note of significant phone conversations. Record what was agreed, who is responsible and the next step.
+## A simple system beats a crowded inbox.
+Choose one secure place for your tenancy records. Give each property and tenancy a clear reference, then use consistent names and dates for the files inside. Keep the original document intact. Save an updated version separately and label it clearly, so changes don't erase the history.
+* Use YYYY-MM-DD dates so files sort in order.
+* Keep signed documents separate from drafts.
+* Store photos with the relevant report or repair.
+* Record a document's source and any next action.
+## Small habits. A much clearer record.
+- Save it while it's fresh | File the document or message, add the date and note any action agreed. For a phone call, record a factual summary rather than relying on memory.
+- Review the loose ends | Check rent entries, outstanding repairs and upcoming document reviews. Chase missing records and confirm which tasks are still open.
+- Close the file properly | Add the check-out evidence, final account, deposit outcome and key-return record. Archive the tenancy separately and set a retention review date.
+## Organised should also mean secure.
+Tenancy files can contain personal and financial information. A useful filing system makes records available to the right people while protecting them from unnecessary access. Further guidance: <a href="https://ico.org.uk/for-organisations/" target="_blank" rel="noopener">ICO guidance on security ↗</a>
+- Control access and keep a backup | Use individual accounts, strong passwords and multi-factor authentication where available. Limit access, lock away paper records and keep a secure, tested backup.
+- Share only what's needed | Check the recipient before sending a file. Share relevant information through an appropriate secure method and avoid unnecessary copies of personal documents.
+- Review what you retain | Set a retention approach for each record type based on its purpose and applicable requirements. Keep personal information only as long as needed, then dispose of it securely.
+faq: Keep it practical.
+? Do I need special software? | Not necessarily. A well-structured, secure digital filing system can work for a small portfolio. Property-management software can help bring documents, communication and reminders together as the workload grows.
+? Which messages should I keep? | Keep relevant correspondence that records a decision, agreement, report or action. Include the date and context, and store it with the right tenancy or repair. Avoid retaining unrelated personal conversations.
+? How long should I keep tenancy records? | There isn't one retention period for every document. Different records can have different legal, tax, contractual or dispute-related requirements. Decide and document an appropriate period for each type, review it regularly and do not keep personal data indefinitely just in case.
+? What should I ask for when changing agent? | Request an organised handover of the relevant tenancy documents, rent position, deposit information, certificates, inspections and ongoing maintenance. Record what has been received and follow up on any gaps.
+cta: Less paperwork to chase. More support from your agent. | Letsby Avenue is a family-run letting agency in Leeds. Talk to us about hands-on management, clearer communication and keeping your property's records in order.

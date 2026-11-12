@@ -1,0 +1,42 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "layout": { "contentSize": "760px", "wideSize": "1200px" },
+    "color": {
+      "defaultPalette": false,
+      "palette": [
+        { "slug": "black", "name": "Black", "color": "#000000" },
+        { "slug": "ink", "name": "Ink", "color": "#151515" },
+        { "slug": "red", "name": "Letsby red", "color": "#D7262E" },
+        { "slug": "red-light", "name": "Red (on dark)", "color": "#FF4A4F" },
+        { "slug": "grey", "name": "Grey text", "color": "#4A4A4A" },
+        { "slug": "line", "name": "Line", "color": "#D4D4D4" },
+        { "slug": "paper", "name": "Paper", "color": "#F5F5F5" },
+        { "slug": "white", "name": "White", "color": "#FFFFFF" }
+      ]
+    },
+    "typography": {
+      "fontFamilies": [
+        { "slug": "display", "name": "Satoshi", "fontFamily": "Satoshi, 'Instrument Sans', system-ui, sans-serif" },
+        { "slug": "body", "name": "Instrument Sans", "fontFamily": "'Instrument Sans', system-ui, sans-serif" }
+      ]
+    }
+  },
+  "styles": {
+    "color": { "background": "#FFFFFF", "text": "#151515" },
+    "typography": { "fontFamily": "var(--wp--preset--font-family--body)", "fontSize": "17px", "lineHeight": "1.6" },
+    "elements": {
+      "heading": { "typography": { "fontFamily": "var(--wp--preset--font-family--display)", "fontWeight": "700", "lineHeight": "1.1", "letterSpacing": "-0.03em" } },
+      "h1": { "typography": { "fontSize": "clamp(2.6rem, 6vw, 4.6rem)", "fontWeight": "900" } },
+      "h2": { "typography": { "fontSize": "clamp(1.9rem, 3.6vw, 2.8rem)" } },
+      "h3": { "typography": { "fontSize": "1.4rem" } },
+      "link": { "color": { "text": "#D7262E" } }
+    }
+  },
+  "templateParts": [
+    { "name": "header", "title": "Header", "area": "header" },
+    { "name": "footer", "title": "Footer", "area": "footer" }
+  ]
+}
