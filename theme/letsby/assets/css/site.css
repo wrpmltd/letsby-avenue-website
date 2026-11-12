@@ -1,6 +1,6 @@
 /* Letsby Avenue — site styles. Colours: black, white, red #D7262E. */
-@font-face { font-family: Satoshi; src: url(../fonts/satoshi-700.woff2) format('woff2'); font-weight: 700; font-display: swap; }
-@font-face { font-family: Satoshi; src: url(../fonts/satoshi-900.woff2) format('woff2'); font-weight: 900; font-display: swap; }
+@font-face { font-family: Satoshi; src: url(../fonts/satoshi-normal-700.woff2) format('woff2'); font-weight: 700; font-display: swap; }
+@font-face { font-family: Satoshi; src: url(../fonts/satoshi-normal-900.woff2) format('woff2'); font-weight: 900; font-display: swap; }
 @font-face { font-family: 'Instrument Sans'; src: url(../fonts/instrument-sans-latin-400-normal.woff2) format('woff2'); font-weight: 400; font-display: swap; }
 @font-face { font-family: 'Instrument Sans'; src: url(../fonts/instrument-sans-latin-500-normal.woff2) format('woff2'); font-weight: 500; font-display: swap; }
 @font-face { font-family: 'Instrument Sans'; src: url(../fonts/instrument-sans-latin-600-normal.woff2) format('woff2'); font-weight: 600; font-display: swap; }
@@ -15,6 +15,7 @@
   --la-max: 1200px;
 }
 *, *::before, *::after { box-sizing: border-box; }
+[hidden] { display: none !important; }
 html { scroll-behavior: smooth; }
 body { margin: 0; font-family: var(--la-body); color: var(--la-ink); background: var(--la-white); -webkit-font-smoothing: antialiased; }
 img { max-width: 100%; height: auto; display: block; }

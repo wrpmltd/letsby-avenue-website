@@ -13,8 +13,8 @@ function letsby_asset_list(): array {
     $fs  = 'https://framerusercontent.com/third-party-assets/fontshare/wf/';
     $fsrc = 'https://cdn.jsdelivr.net/npm/@fontsource/instrument-sans@5.3.0/files/';
     return [
-        'assets/fonts/satoshi-700.woff2' => $fs . 'CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P/HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH/BKWEE3VKGTFABE37K2DTH625VUSN2N35.woff2',
-        'assets/fonts/satoshi-900.woff2' => $fs . '5ICO57VJIN252OT5L2KLEIPW754DTLAO/ZU64SLR2IEO66N27IVY5Z6JJJRTJECJK/TCTRLNEXANFIGSFCZTGQL7PZ5362GYK6.woff2',
+        'assets/fonts/satoshi-normal-700.woff2' => $fs . 'LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2',
+        'assets/fonts/satoshi-normal-900.woff2' => $fs . 'NHPGVFYUXYXE33DZ75OIT4JFGHITX5PE/PSUTMASCDJTVPERDYJZPN23BVUFUCQIF/J64QX5IPOHK56I2KYUNBQ5M2XWZEYKYX.woff2',
         'assets/fonts/instrument-sans-latin-400-normal.woff2' => $fsrc . 'instrument-sans-latin-400-normal.woff2',
         'assets/fonts/instrument-sans-latin-500-normal.woff2' => $fsrc . 'instrument-sans-latin-500-normal.woff2',
         'assets/fonts/instrument-sans-latin-600-normal.woff2' => $fsrc . 'instrument-sans-latin-600-normal.woff2',
