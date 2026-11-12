@@ -42,8 +42,8 @@ add_action('after_setup_theme', function () {
 
 add_action('wp_enqueue_scripts', function () {
     $uri = get_template_directory_uri();
-    wp_enqueue_style('letsby', $uri . '/assets/css/site.css', [], LETSBY_VER);
-    wp_enqueue_script('letsby-consent', $uri . '/assets/js/consent.js', [], LETSBY_VER, ['strategy' => 'defer', 'in_footer' => true]);
+    wp_enqueue_style('letsby', $uri . '/assets/css/site.css', [], (string) filemtime(__DIR__ . '/assets/css/site.css'));
+    wp_enqueue_script('letsby-consent', $uri . '/assets/js/consent.js', [], (string) filemtime(__DIR__ . '/assets/js/consent.js'), ['strategy' => 'defer', 'in_footer' => true]);
     wp_localize_script('letsby-consent', 'LETSBY', ['ga4' => letsby_business()['ga4']]);
     // Not needed on a brochure site.
     wp_dequeue_style('global-styles-inline-css');
