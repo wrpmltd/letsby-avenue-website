@@ -28,7 +28,7 @@ add_filter('document_title_separator', fn() => '|');
 
 /* WP's own canonical/robots are replaced by ours so there is one of each. */
 remove_action('wp_head', 'rel_canonical');
-remove_filter('wp_robots', 'wp_robots_max_image_preview_large');
+remove_action('wp_head', 'wp_robots', 1);
 
 add_action('wp_head', function () {
     $desc = letsby_meta('_la_desc');
@@ -39,6 +39,7 @@ add_action('wp_head', function () {
     $img   = get_template_directory_uri() . '/assets/img/social-share.png';
 
     $robots = letsby_meta('_la_noindex') === '1' || is_404() || is_search() ? 'noindex, follow' : 'index, follow, max-image-preview:large';
+    if (!get_option('blog_public')) $robots = 'noindex, nofollow'; // staging
     echo '<meta name="robots" content="' . esc_attr($robots) . "\">\n";
     if ($desc) echo '<meta name="description" content="' . esc_attr($desc) . "\">\n";
     if ($url)  echo '<link rel="canonical" href="' . esc_url($url) . "\">\n";

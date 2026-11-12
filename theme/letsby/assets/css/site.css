@@ -34,6 +34,7 @@ a { color: var(--la-red); }
 .la-section--dark { background: var(--la-black); color: #E8E8E8; }
 .la-section--dark h2, .la-section--dark h3 { color: var(--la-white); }
 .la-section--dark .la-eyebrow { color: var(--la-red-hi); }
+.la-section--dark a:not(.la-btn), .la-boxed a:not(.la-btn) { color: #fff; }
 .la-boxed { background: var(--la-black); color: #E8E8E8; border-radius: 4px; padding: clamp(40px, 6vw, 80px) var(--la-gutter); }
 .la-boxed h2, .la-boxed h3 { color: #fff; }
 .la-boxed .la-eyebrow { color: var(--la-red-hi); }
