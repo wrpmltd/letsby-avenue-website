@@ -6,3 +6,5 @@ deployment:
     - /bin/cp -R theme/letsby/. $SITE/wp-content/themes/letsby/
     - mkdir -p $SITE/wp-content/themes/letsby/setup/content
     - /bin/cp content/*.html content/pages.json $SITE/wp-content/themes/letsby/setup/content/
+    - mkdir -p $SITE/wp-content/themes/letsby/setup/content/areas
+    - /bin/cp content/areas/*.html $SITE/wp-content/themes/letsby/setup/content/areas/

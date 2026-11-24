@@ -1,0 +1,587 @@
+[
+[
+"Adel",
+"LS16",
+"cookridge,weetwood,bramhope,alwoodley,horsforth",
+"Adel is an affluent suburb in north Leeds, home to Adel Church, one of the best-preserved Norman churches in the country, with open green space nearby.",
+"Detached and semi-detached family homes, many on large plots.",
+"Buses along the A660 into Leeds and quick access to the ring road and Leeds Bradford Airport.",
+"Families and professionals, many drawn by the schools and green space."
+],
+[
+"Alwoodley",
+"LS17",
+"moortown,adel,roundhay,chapel-allerton",
+"Alwoodley is a sought-after suburb in north Leeds, known for its golf club, tree-lined roads and large family homes.",
+"Large detached and semi-detached houses, many on generous plots.",
+"Buses along Harrogate Road and Street Lane into the city, with the ring road close by.",
+"Families, professionals and executives."
+],
+[
+"Armley",
+"LS12",
+"kirkstall,bramley,wortley,burley,holbeck",
+"Armley is a large, well-established suburb west of the city centre, with Armley Mills Industrial Museum, Armley Park and a busy high street along Town Street and Branch Road.",
+"Victorian terraces, back-to-backs, semis and a good supply of flats and studios.",
+"Frequent buses into the city centre along Armley Road and Town Street, with quick access to the ring road.",
+"Families, professionals and sharers who want a short commute at a sensible rent."
+],
+[
+"Barwick-in-Elmet",
+"LS15",
+"scholes,thorner,garforth,boston-spa",
+"Barwick-in-Elmet is a village east of Leeds with a maypole, an Iron Age hill fort and a strong village identity.",
+"Stone cottages, period homes and newer family houses.",
+"Buses to Leeds and Garforth, and quick access to the A64 and the A1(M).",
+"Families and commuters who like a village setting."
+],
+[
+"Beeston",
+"LS11",
+"holbeck,cottingley,middleton,armley",
+"Beeston is a large residential area south of the city centre, with Dewsbury Road as its main shopping street and green space at Cross Flatts Park.",
+"Back-to-back and through terraces, semis and a good number of flats.",
+"Frequent buses run into the city centre along Dewsbury Road, and the M621 is close by.",
+"Families, sharers and professionals who want a short commute at a reasonable rent."
+],
+[
+"Belle Isle",
+"LS10",
+"middleton,hunslet,beeston,holbeck",
+"Belle Isle is a residential area in south Leeds, mostly built in the middle of the last century, with open green space close by and a strong sense of community.",
+"Mainly houses with gardens, including former council stock, along with some low-rise flats.",
+"Local bus routes into the city centre and quick road access to the M621 and M1.",
+"Families and long-term tenants who want a house with a garden at a modest rent."
+],
+[
+"Boston Spa",
+"LS23",
+"wetherby,thorner,barwick-in-elmet",
+"Boston Spa is an attractive village on the River Wharfe, with a conservation area and the British Library site at its edge.",
+"Stone cottages, period homes, detached houses and newer estates.",
+"Buses to Leeds and Wetherby, and close to the A1(M).",
+"Professionals, families and commuters."
+],
+[
+"Bramhope",
+"LS16",
+"adel,cookridge,otley,guiseley",
+"Bramhope is a village north of Leeds near the Chevin and the Wharfe valley, known for Bramhope Tunnel and for the large houses of the area.",
+"Large detached houses, stone cottages and some newer homes.",
+"Close to the A660 and Leeds Bradford Airport, with buses to Leeds and Otley.",
+"Professionals and executive households looking for a village setting within reach of Leeds."
+],
+[
+"Bramley",
+"LS13",
+"armley,kirkstall,stanningley,rodley,pudsey",
+"Bramley is a big suburb in west Leeds with its own shopping centre and town centre, and the green space of Bramley Fall Woods beside the River Aire.",
+"Terraces, semis, ex-council homes and some flats.",
+"Regular buses into the city centre and towards Pudsey and Kirkstall, with the ring road close by.",
+"Families, young professionals and sharers who want good value close to the city."
+],
+[
+"Burley",
+"LS4",
+"kirkstall,hyde-park,armley,headingley",
+"Burley is a popular area for students and young professionals, with Burley Park station on the line to Harrogate and a close-knit mix of Victorian streets.",
+"Victorian terraces, converted flats and some larger houses.",
+"Burley Park station gives direct trains to Leeds, and buses run along Kirkstall Road and Burley Road.",
+"Students, graduates and young professionals who want a short journey into the city centre."
+],
+[
+"Burmantofts",
+"LS9",
+"richmond-hill,city-centre,harehills,osmondthorpe",
+"Burmantofts lies just east of the city centre, close to St James's University Hospital, which is a major employer in the area.",
+"Terraces, flats and former council blocks, alongside newer developments.",
+"A short walk or bus ride to the city centre.",
+"NHS staff, medical students and professionals who want to be close to the hospital and the city."
+],
+[
+"Calverley",
+"LS28",
+"farsley,rodley,pudsey,horsforth",
+"Calverley is a village in the Aire valley with a conservation area at its heart, and green space and canal walks close by.",
+"Stone cottages, terraces, semis and larger detached houses.",
+"Buses to Leeds and Bradford, with Apperley Bridge station and the ring road close by.",
+"Families, professionals and couples."
+],
+[
+"Chapel Allerton",
+"LS7",
+"moortown,meanwood,roundhay,chapeltown",
+"Chapel Allerton is one of the most popular parts of north Leeds, with independent bars, cafes and restaurants, an annual arts festival and a village-like high street.",
+"Victorian and Edwardian houses, converted flats and some newer apartments.",
+"Frequent buses into the city centre and towards Roundhay and Moortown.",
+"Young professionals, couples and families who like a lively high street."
+],
+[
+"Chapeltown",
+"LS7",
+"chapel-allerton,harehills,roundhay,moortown",
+"Chapeltown is a diverse and historic area of north Leeds, known for its multicultural community, the Leeds West Indian Carnival and Potternewton Park.",
+"Victorian terraces, large older houses divided into flats, and some newer homes.",
+"Frequent buses into the city centre along Chapeltown Road.",
+"Professionals, families and sharers who want good value close to the city."
+],
+[
+"Churwell",
+"LS27",
+"morley,cottingley,beeston,gildersome",
+"Churwell is a residential area between Morley and Beeston, close to Churwell Woods and with quick access to the motorways.",
+"Terraced and semi-detached houses, with some newer homes.",
+"Buses into the city centre and quick access to the M621 and M62.",
+"Families and commuters looking for good value close to the motorways."
+],
+[
+"City Centre",
+"LS1 and LS2",
+"holbeck,burley,hunslet,burmantofts",
+"Leeds city centre is the commercial and cultural heart of the city, with the railway station, the arcades around Briggate, the Corn Exchange and a large concentration of offices, restaurants and bars.",
+"Apartments, studios and loft-style flats, from converted mills and warehouses to modern riverside and city-centre blocks.",
+"Leeds railway station and the main bus stations are on the doorstep, and most of the city can be reached on foot.",
+"Young professionals, students and people working in finance, law, the NHS and the public sector who want to walk to work."
+],
+[
+"Colton",
+"LS15",
+"whitkirk,cross-gates,temple-newsam,halton",
+"Colton is a newer suburb in east Leeds, home to the Thorpe Park business and leisure development and a large number of recent family homes.",
+"Modern detached and semi-detached homes and newer apartments.",
+"Quick access to the M1 at Junction 46 and the A63, with buses into Leeds.",
+"Families and professionals working at nearby business parks."
+],
+[
+"Cookridge",
+"LS16",
+"adel,horsforth,bramhope,weetwood",
+"Cookridge is a well-regarded suburb on the north-west edge of Leeds, with open space close by and a quiet residential feel.",
+"Detached and semi-detached family houses and bungalows.",
+"Buses into Leeds and Otley, and quick access to the ring road and the A660.",
+"Families and professionals who want a quieter area with good schools."
+],
+[
+"Cottingley",
+"LS11",
+"beeston,morley,churwell,middleton",
+"Cottingley is a quieter residential area on the southern edge of Leeds, close to the motorway network and within easy reach of both Morley and the city centre.",
+"Post-war semi-detached and terraced homes, with some newer estates.",
+"Bus services into the city centre and Morley, with quick access to the M621 and the Leeds ring road.",
+"Families and working households looking for more space than the inner city offers."
+],
+[
+"Cross Gates",
+"LS15",
+"halton,whitkirk,colton,seacroft",
+"Cross Gates is a busy district in east Leeds with its own shopping centre and a railway station, and a long-established high street.",
+"Inter-war and post-war semis, terraces and some flats.",
+"Cross Gates station has direct trains to Leeds, and frequent buses run along Austhorpe Road.",
+"Families, commuters and professionals who want good transport links."
+],
+[
+"Farnley",
+"LS12",
+"wortley,armley,bramley,gildersome",
+"Farnley is a mainly residential suburb in west Leeds, with Farnley Hall and open green space nearby and the Leeds ring road close by.",
+"Post-war family houses and semis, with some terraces and flats.",
+"Buses into Leeds city centre, and quick access to the ring road and M62.",
+"Families and professionals looking for more space at a good price."
+],
+[
+"Farsley",
+"LS28",
+"pudsey,calverley,rodley,stanningley",
+"Farsley is a popular village-style area between Leeds and Bradford, with an attractive high street and independent shops.",
+"Stone terraces, semis and larger family houses.",
+"Buses into Leeds and Bradford, and quick access to the ring road.",
+"Families, professionals and couples looking for a village feel close to the city."
+],
+[
+"Garforth",
+"LS25",
+"kippax,swillington,barwick-in-elmet,scholes",
+"Garforth is a commuter town east of Leeds, with a busy centre on Main Street and a railway station.",
+"Inter-war and post-war semis, detached homes and newer estates.",
+"Garforth station has direct trains to Leeds, and the M1 and A63 are close by.",
+"Commuters, families and professionals."
+],
+[
+"Gildersome",
+"LS27",
+"morley,farnley,pudsey,churwell",
+"Gildersome is a village on the south-west edge of Leeds, close to the M62 and Junction 27, with a strong local identity and open countryside beyond.",
+"Stone terraces, semis, detached houses and some farm conversions.",
+"Close to the M62 and the A58, with buses into Leeds and Morley.",
+"Families, commuters and professionals who want easy motorway access."
+],
+[
+"Gledhow",
+"LS8",
+"roundhay,oakwood,chapel-allerton,harehills",
+"Gledhow is a residential area between Roundhay and Chapel Allerton, with Gledhow Valley Woods and its lake as green spaces.",
+"Victorian terraces, semis and larger family homes.",
+"Buses into the city centre along Gledhow Road and Roundhay Road.",
+"Families and professionals."
+],
+[
+"Guiseley",
+"LS20",
+"yeadon,rawdon,otley,horsforth",
+"Guiseley is a town in the Aire valley, known as the home of Harry Ramsden's fish and chip shop and for its football club.",
+"Stone terraces, semis and detached houses.",
+"Guiseley station has direct trains to Leeds and Bradford, and Leeds Bradford Airport is nearby.",
+"Commuters, families and professionals."
+],
+[
+"Halton",
+"LS15",
+"cross-gates,whitkirk,colton,temple-newsam",
+"Halton is a residential area in east Leeds, close to Cross Gates and Temple Newsam, with a mix of housing and local shops.",
+"Semi-detached and terraced homes.",
+"Buses into the city centre, and close to Cross Gates station and the A63.",
+"Families and commuters."
+],
+[
+"Harehills",
+"LS8",
+"chapeltown,oakwood,richmond-hill,burmantofts",
+"Harehills is a busy, diverse neighbourhood north-east of the city centre, with many shops, restaurants and community venues along Harehills Lane and Roundhay Road.",
+"Terraced houses and some flats.",
+"Very frequent buses on Roundhay Road into the city centre.",
+"Families, professionals and sharers looking for good-value homes close to the city."
+],
+[
+"Headingley",
+"LS6",
+"hyde-park,meanwood,burley,weetwood,west-park",
+"Headingley is one of the best-known parts of Leeds, famous for the cricket and rugby league stadium and for its busy shops, bars and restaurants along North Lane and Otley Road.",
+"Large Victorian terraces and semis, often let as student houses and shared homes, with a mix of flats and some family houses.",
+"Very frequent buses into the city centre and the universities, with Burley Park station within reach.",
+"University of Leeds and Leeds Beckett students, graduates and young professionals."
+],
+[
+"Holbeck",
+"LS11",
+"city-centre,hunslet,beeston,armley",
+"Holbeck sits just south of the city centre and has changed a lot in recent years, with former industrial buildings such as Temple Works and the Round Foundry bringing new homes and workspace alongside older Victorian streets.",
+"Victorian terraces, converted mill and warehouse apartments and new-build flats.",
+"A short walk or bus ride to the city centre, with quick access to the M621.",
+"Professionals who want to be near the city centre, and renters looking for better value than the centre itself."
+],
+[
+"Horsforth",
+"LS18",
+"rodley,calverley,cookridge,weetwood,adel",
+"Horsforth is a popular suburb in north-west Leeds, with a thriving town centre on Town Street, Horsforth Hall Park and the green space of Horsforth Woodside.",
+"A mix of Victorian terraces, semis, detached homes and some flats.",
+"Horsforth station has trains to Leeds, and buses run along Town Street and Hall Lane.",
+"Families, professionals and commuters who want a good town centre and good schools nearby."
+],
+[
+"Hunslet",
+"LS10",
+"holbeck,city-centre,middleton,belle-isle",
+"Hunslet runs along the River Aire south of the city centre and has a long industrial history, with newer homes now sitting beside the older streets and close to the waterfront at Leeds Dock.",
+"Terraced houses, newer townhouses and riverside apartments.",
+"Close to the city centre and the M1 and M621, with regular buses into town.",
+"Professionals working in the city centre, couples and small families looking for an affordable base close in."
+],
+[
+"Hyde Park",
+"LS6",
+"headingley,woodhouse,burley,kirkstall",
+"Hyde Park is a lively neighbourhood beside Woodhouse Moor, a large area of open parkland, with a strong student community, independent shops and the gas-lit Hyde Park Picture House.",
+"Rows of Victorian terraces, many let as shared houses, plus some flats.",
+"A short walk to the University of Leeds and the city centre, with frequent buses along Cardigan Road and Headingley Lane.",
+"Students and graduates, plus young professionals who want to stay close to the university."
+],
+[
+"Kippax",
+"LS25",
+"garforth,swillington,methley,rothwell",
+"Kippax is a former mining village east of Leeds with a village centre, a leisure centre and surrounding countryside.",
+"Terraces, semis and post-war estates.",
+"Buses to Leeds and Garforth, and close to the A63.",
+"Families and working households."
+],
+[
+"Kirkstall",
+"LS5",
+"burley,headingley,bramley,armley",
+"Kirkstall is known for the ruins of Kirkstall Abbey, a medieval Cistercian monastery, and for riverside and canal walks along the River Aire, with new homes around the Kirkstall Forge site.",
+"Victorian terraces, semis, apartments and new homes around Kirkstall Forge.",
+"Kirkstall Forge station has direct trains to Leeds, and buses run along Kirkstall Road.",
+"Professionals, couples and families, and students who like a quieter base than Headingley."
+],
+[
+"Meanwood",
+"LS6",
+"headingley,chapel-allerton,weetwood,moortown",
+"Meanwood is a leafy suburb in north Leeds, close to Meanwood Park and the Meanwood Beck valley, with a village feel and a good mix of local shops.",
+"Terraces, semi-detached homes and some larger family houses.",
+"Regular buses into the city centre along Otley Road and Meanwood Road.",
+"Families, young professionals and postgraduates."
+],
+[
+"Methley",
+"LS26",
+"woodlesford,rothwell,kippax,oulton",
+"Methley is a village between Leeds and Castleford, surrounded by open countryside and close to the Aire valley.",
+"Stone cottages, semis and newer homes.",
+"Buses to Leeds and Castleford, with the M1 close by.",
+"Families and commuters."
+],
+[
+"Middleton",
+"LS10",
+"belle-isle,hunslet,beeston,cottingley",
+"Middleton is a large suburb south of the city centre, known for Middleton Park and its heritage railway, with wide open spaces and a strong local community.",
+"Post-war family houses, ex-council properties and some newer builds.",
+"Buses into the city centre and fast road links to the M1 and M62.",
+"Families and working households looking for a house with outdoor space and a straightforward commute."
+],
+[
+"Moortown",
+"LS17",
+"alwoodley,chapel-allerton,roundhay,meanwood",
+"Moortown is a busy suburb in north Leeds with a mix of shops, restaurants and a long parade along Harrogate Road and Street Lane.",
+"Inter-war semis, detached homes and flats.",
+"Frequent buses into the city centre along Harrogate Road and Street Lane.",
+"Families and professionals who want good local shops and schools."
+],
+[
+"Morley",
+"LS27",
+"churwell,gildersome,cottingley,pudsey",
+"Morley is a historic market town south-west of Leeds, with an impressive town hall, a good range of shops and Morley station on the line to Leeds and Huddersfield.",
+"Stone terraces, post-war semis and some newer estates and flats.",
+"Morley station has direct trains to Leeds, and the M62 is close by.",
+"Families, commuters and professionals who want a market-town feel within reach of Leeds."
+],
+[
+"Oakwood",
+"LS8",
+"roundhay,gledhow,harehills,moortown",
+"Oakwood is a neighbourhood beside Roundhay Park, with a busy shopping parade and the well-known Oakwood Clock.",
+"Terraces, semis and some flats.",
+"Buses along Roundhay Road into the city centre.",
+"Families, professionals and sharers who want to be near the park."
+],
+[
+"Osmondthorpe",
+"LS9",
+"richmond-hill,burmantofts,harehills,halton",
+"Osmondthorpe is a residential neighbourhood in east Leeds, between the city centre and the Halton and Temple Newsam area, with a mix of housing types.",
+"Terraced and semi-detached houses and some low-rise flats.",
+"Local buses into the city centre and quick access to the A63 and the M1.",
+"Families and working households looking for an affordable home close to the city."
+],
+[
+"Otley",
+"LS21",
+"bramhope,yeadon,guiseley,adel",
+"Otley is a historic market town in the Wharfe valley, with the Chevin Forest Park above it, a lively market and a strong cultural calendar.",
+"Stone terraces, cottages, semis and period houses.",
+"Frequent buses to Leeds, Bradford and Ilkley, with road links along the A660.",
+"Commuters, families and professionals."
+],
+[
+"Oulton",
+"LS26",
+"rothwell,woodlesford,methley,swillington",
+"Oulton is a village south-east of Leeds, with Oulton Hall hotel and golf course and green space nearby.",
+"Detached and semi-detached family homes.",
+"Buses to Leeds and quick access to the M62 and the M1.",
+"Families and professionals."
+],
+[
+"Pudsey",
+"LS28",
+"stanningley,farsley,calverley,bramley,gildersome",
+"Pudsey is a busy market town on the western side of Leeds, with a traditional shopping centre, a market and Pudsey Park, and is well known for its cricketing heritage, including Sir Len Hutton.",
+"Stone terraces, semis, detached houses and some flats.",
+"Frequent buses into Leeds and Bradford, with the ring road and main routes close by.",
+"Families, young professionals and commuters."
+],
+[
+"Rawdon",
+"LS19",
+"yeadon,guiseley,horsforth,calverley",
+"Rawdon is a leafy town between Leeds and Bradford, with Rawdon Billing, a hilltop nature reserve, and woodland walks.",
+"Stone houses, semis and larger detached homes.",
+"Buses into Leeds and Bradford, with the ring road and the airport close by.",
+"Families and professionals."
+],
+[
+"Richmond Hill",
+"LS9",
+"burmantofts,osmondthorpe,city-centre,harehills",
+"Richmond Hill sits east of the city centre, close enough to walk into town, with a mix of older terraces and newer housing.",
+"Terraced houses, flats and some recent new-build developments.",
+"Within walking distance of the city centre, with frequent buses and quick links to the A64 and the M1.",
+"Professionals and sharers who want a short commute into the city centre."
+],
+[
+"Rodley",
+"LS13",
+"bramley,calverley,horsforth,stanningley",
+"Rodley sits on the Leeds and Liverpool Canal and the River Aire, with the Rodley Nature Reserve and canalside pubs, and a village feel just outside the ring road.",
+"Stone terraces, semis, canal-side conversions and some larger family houses.",
+"Buses along the A657 towards Leeds and Bradford, and close to Kirkstall Forge and Horsforth stations.",
+"Couples, young families and professionals who like a quieter, village setting."
+],
+[
+"Rothwell",
+"LS26",
+"oulton,woodlesford,swillington,methley",
+"Rothwell is a historic town south-east of Leeds, with a busy high street, Rothwell Country Park and a long history linked with coal mining.",
+"Stone terraces, post-war homes and newer estates.",
+"Buses into Leeds, and quick access to the M62 and the M1.",
+"Families, commuters and professionals."
+],
+[
+"Roundhay",
+"LS8",
+"oakwood,gledhow,moortown,chapel-allerton,alwoodley",
+"Roundhay is one of the most desirable parts of Leeds, centred on Roundhay Park, one of the largest city parks in Europe, with Waterloo Lake and Tropical World.",
+"Large Victorian and Edwardian houses, converted flats and apartments.",
+"Buses along Roundhay Road and Street Lane into the city centre.",
+"Families, professionals and couples who value green space and schools."
+],
+[
+"Scholes",
+"LS15",
+"barwick-in-elmet,cross-gates,whitkirk,thorner",
+"Scholes is a village east of Leeds, close to Barwick-in-Elmet, with open farmland around it and a quiet, rural feel.",
+"Stone cottages and detached homes.",
+"Buses to Leeds and quick access to the A64.",
+"Families and commuters who want village living."
+],
+[
+"Seacroft",
+"LS14",
+"whinmoor,cross-gates,halton,colton",
+"Seacroft is a large suburb in north-east Leeds with its own shopping centre and large areas of green space, and good access to the ring road and the A64.",
+"Post-war family houses, ex-council stock and some low-rise flats.",
+"Frequent buses into the city centre and quick access to the A64 and the ring road.",
+"Families and working households looking for an affordable home with outdoor space."
+],
+[
+"Stanningley",
+"LS28",
+"pudsey,bramley,farsley,rodley",
+"Stanningley sits on the main road between Leeds and Bradford, with a lively high street and easy transport links in both directions.",
+"Terraces, semis and some flats and apartments.",
+"Frequent buses along the Leeds to Bradford road, and close to the ring road.",
+"Families, professionals and tenants looking for good value between the two cities."
+],
+[
+"Swillington",
+"LS26",
+"garforth,kippax,temple-newsam,rothwell",
+"Swillington is a village south-east of Leeds beside Swillington Ings, a nature reserve and wetland area.",
+"Stone cottages, post-war homes and newer builds.",
+"Quick access to the M1 and A63, with buses to Leeds.",
+"Families and commuters."
+],
+[
+"Temple Newsam",
+"LS15",
+"whitkirk,halton,colton,swillington",
+"Temple Newsam is best known for Temple Newsam House and its large historic parkland, with homes around the edge of the estate.",
+"Detached and semi-detached homes, with some newer builds.",
+"Quick access to the M1 and the A63, with buses into the city.",
+"Families and professionals who like being close to the park."
+],
+[
+"Thorner",
+"LS14",
+"scholes,barwick-in-elmet,wetherby,boston-spa",
+"Thorner is a village north-east of Leeds in a conservation area, with a village green, a church and open countryside around it.",
+"Stone cottages, period houses and newer detached homes.",
+"Buses to Leeds and Wetherby, and close to the A64 and A1(M).",
+"Families and professionals who prefer a village setting."
+],
+[
+"Weetwood",
+"LS16",
+"headingley,west-park,adel,meanwood",
+"Weetwood is a pleasant residential area in north-west Leeds, close to Headingley and the ring road, with Weetwood Hall nearby.",
+"Post-war semis, detached houses and some larger family homes.",
+"Buses along the A660 and Otley Road into the city, with good access to the ring road.",
+"Families, university staff and professionals."
+],
+[
+"West Park",
+"LS16",
+"weetwood,headingley,adel,horsforth",
+"West Park is a quiet residential neighbourhood off Otley Road in north-west Leeds, with a mix of family homes close to Headingley and the green space of the Meanwood valley.",
+"Semi-detached and detached houses, with some flats.",
+"Buses along Otley Road into the city centre and quick access to the ring road.",
+"Families, university staff and professionals who want a quieter area than Headingley."
+],
+[
+"Wetherby",
+"LS22",
+"boston-spa,thorner,bramhope",
+"Wetherby is a market town on the River Wharfe on the north-east edge of Leeds, with a racecourse and a traditional high street.",
+"Stone terraces, period houses and larger family homes.",
+"Close to the A1(M), with buses to Leeds and Harrogate.",
+"Families, commuters and professionals."
+],
+[
+"Whinmoor",
+"LS14",
+"seacroft,cross-gates,colton,thorner",
+"Whinmoor is a residential suburb in north-east Leeds, mostly built in the second half of the last century, with open fields nearby.",
+"Semi-detached and terraced houses, with some bungalows.",
+"Buses into the city centre and quick access to the A64 and the ring road.",
+"Families and commuters."
+],
+[
+"Whitkirk",
+"LS15",
+"cross-gates,colton,temple-newsam,halton",
+"Whitkirk is a residential suburb in east Leeds with its parish church and Temple Newsam parkland nearby.",
+"Post-war semis and detached homes.",
+"Buses into the city centre and quick access to the A63 and the M1.",
+"Families and professionals."
+],
+[
+"Woodhouse",
+"LS6 and LS2",
+"hyde-park,headingley,city-centre,burley",
+"Woodhouse lies between the city centre and the university and includes Woodhouse Moor, the large park at the heart of this part of Leeds.",
+"Terraces, converted houses and flats, many let to students.",
+"A short walk to the University of Leeds and the city centre, with frequent buses nearby.",
+"Students, university staff and young professionals."
+],
+[
+"Woodlesford",
+"LS26",
+"rothwell,oulton,methley,swillington",
+"Woodlesford is a village in the Aire valley, with a railway station and the Aire and Calder Navigation nearby.",
+"Terraces, semis and some newer homes.",
+"Woodlesford station has direct trains to Leeds and Wakefield.",
+"Commuters and families."
+],
+[
+"Wortley",
+"LS12",
+"armley,farnley,bramley,holbeck",
+"Wortley is a residential area in west Leeds with a village centre around Wortley Road and Green Lane, and good road links towards the ring road.",
+"Terraces, semis and some larger older houses.",
+"Buses along Tong Road and Wortley Road into the city, and quick access to the ring road.",
+"Families and working households wanting a settled area close to the city."
+],
+[
+"Yeadon",
+"LS19",
+"guiseley,rawdon,horsforth,otley",
+"Yeadon is a town on the high ground north-west of Leeds, next to Leeds Bradford Airport, with a traditional high street and open countryside close by.",
+"Stone terraces, semis, detached homes and some newer estates.",
+"Close to Leeds Bradford Airport, with buses into Leeds and Guiseley.",
+"Airport and aviation staff, commuters and families."
+]
+]

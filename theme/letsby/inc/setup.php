@@ -66,14 +66,17 @@ function letsby_import_pages(): array {
 
     $menu_order = 0;
     foreach ($list as $p) {
-        $file = $base . $p['slug'] . '.html';
+        $file = $base . ($p['file'] ?? $p['slug']) . '.html';
         if (!file_exists($file)) { $log[] = "FAIL  no content file for {$p['slug']}"; continue; }
-        $existing = get_page_by_path($p['slug'], OBJECT, 'page');
+        // Sub-pages (e.g. /areas/headingley) name their parent page by slug.
+        $parent   = !empty($p['parent']) ? get_page_by_path($p['parent'], OBJECT, 'page') : null;
+        $existing = get_page_by_path(($parent ? $p['parent'] . '/' : '') . $p['slug'], OBJECT, 'page');
         $data = [
             'post_type' => 'page', 'post_status' => 'publish',
             'post_title' => $p['title'], 'post_name' => $p['slug'],
             'post_content' => file_get_contents($file), 'menu_order' => $menu_order++,
             'comment_status' => 'closed', 'ping_status' => 'closed',
+            'post_parent' => $parent ? $parent->ID : 0,
         ];
         if ($existing) $data['ID'] = $existing->ID;
         // Block markup must not be mangled by kses on save.

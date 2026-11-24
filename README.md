@@ -5,6 +5,7 @@ WordPress theme and page content for https://letsby-avenue.co.uk, hosted on Krys
 - `theme/letsby/` — the theme (design, SEO tags, schema, enquiry form, cookie consent, redirects)
 - `content/` — page content (WordPress block markup) and `pages.json` (titles, SEO titles, descriptions)
 - `content/guides/*.txt` — landlord guides in a simple text format; run `python3 tools/build_guides.py` to rebuild the HTML
+- `tools/build_areas.py` + `tools/areas.json` — the Areas hub and the 65 area pages (`/areas/<slug>`); edit the data, run `python3 tools/build_areas.py`
 - `.cpanel.yml` — cPanel deploys the theme and content into the site on every pull
 
 After a deploy, run **Tools › Letsby setup** in WordPress to download fonts/images and create or update the pages.
